@@ -263,8 +263,8 @@ public class Main {
             System.out.println("5  - Impressao Cod Barras");
             System.out.println("6  - Impressao XML SAT");
             System.out.println("7  - Impressao XML Canc SAT");
-            System.out.println("8  - Abrir Conexao");
-            System.out.println("9  - Configurar Conexao");
+            System.out.println("8  - Abrir gaveta Elgin");
+            System.out.println("9  - Abrir gaveta");
             System.out.println("10  - Sinal Sonoro");
             //criar o restante do MENU
 
